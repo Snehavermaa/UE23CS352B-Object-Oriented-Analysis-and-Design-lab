@@ -16,34 +16,6 @@ The focus of this lab is to understand **how real-world problems are analyzed, m
 - Translate problem statements into structured designs
 
 ---
-
-## 📂 Repository Structure
-
-```
-
-UE23CS352B-OOAD-Lab/
-│
-├── case-studies/
-│   └── Problem statements and system descriptions
-│
-├── use-cases/
-│   └── Use case diagrams and specifications
-│
-├── uml-diagrams/
-│   ├── Class diagrams
-│   ├── Sequence diagrams
-│   ├── Activity diagrams
-│   ├── State diagrams
-│   └── Component diagrams
-│
-├── documentation/
-│   └── Detailed analysis and design documents
-│
-├── README.md
-└── tools.md
-
-```
-
 ---
 
 ## 🧠 Topics Covered
